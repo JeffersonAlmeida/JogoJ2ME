@@ -1,5 +1,5 @@
-MIDlet-1: TestaSprite, ,Jogo
-MIDlet-Jar-Size: 149039
+MIDlet-1: TestaSprite, ,com.labirinto.view.Jogo
+MIDlet-Jar-Size: 247661
 MIDlet-Jar-URL: Labirinto.jar
 MIDlet-Name: Labirinto
 MIDlet-Vendor: Vendor

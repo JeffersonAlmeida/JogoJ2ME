@@ -1,4 +1,4 @@
-MIDlet-1: TestaSprite, ,Jogo
+MIDlet-1: TestaSprite, ,com.labirinto.view.Jogo
 MIDlet-Vendor: Vendor
 MIDlet-Name: Labirinto
 MIDlet-Version: 1.0
